@@ -19,6 +19,6 @@ We can see in the chart below that success rates for play kickstarter campaigns 
 
 - Based on the outcomes by goal, I conclude that the ideal goal for a play kickstarter would be under $5000 or between $35,000 and $45,000; depending on the size of the production.
 
-- These analyses do not include live campaigns, and is limited to 4116 entries. With more data and including *all* of the data, we could achieve more accurate results.
+- These analyses do not include live campaigns, and is limited to 4114 entries. With more data and including *all* of the data, we could achieve more accurate results.
 
 - We could also create a table and/or graph to indicate the average duration of successful and failed campaigns and then weigh that against the analysis of outcomes based on launch date to anticipate a successful campaign's duration.
